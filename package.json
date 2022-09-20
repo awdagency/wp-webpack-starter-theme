@@ -19,6 +19,9 @@
         "webpack-cli": "^4.9.2"
     },
     "dependencies": {
-        "gsap": "^3.9.1"
+        "detected-device": "^1.0.10",
+        "gsap": "^3.9.1",
+        "locomotive-scroll": "^4.1.4",
+        "swiper": "^8.4.2"
     }
 }
