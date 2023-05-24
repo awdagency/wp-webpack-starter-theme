@@ -1,5 +1,5 @@
 
-    <footer class="footer asd">
+    <footer class="footer">
 
     </footer>
 
